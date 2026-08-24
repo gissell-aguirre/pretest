@@ -8,7 +8,7 @@ public class Prob1 {
 	
 	public static void findMaxDifference(int array1[]) {
 		System.out.print(array1[0]);
-		for(int i = 0; i < array1.length)
+		for(int i = 0; i < )
 
 	}
 
